@@ -1,0 +1,67 @@
+
+:root {
+  --white: #fff;
+  --skyblue: #7f8cff;
+}
+
+body {
+  background: #ccc;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+}
+
+p {
+  font-size: 20px;
+}
+
+header {
+  height: 90vh;
+  border-bottom-left-radius: 25%;
+}
+
+#greeting {
+  margin-top: 14rem;
+}
+
+.bg-image {
+  background-image: url(../images/HeaderbgDesktop.svg);
+  border-bottom-left-radius: 25%;
+}
+
+main {
+  border-radius: 5%;
+}
+
+#card {
+  width: 90%;
+  border-radius: 5rem;
+}
+
+#card-round {
+  border-radius: 25%;
+}
+
+a:hover {
+  background-color: var(--skyblue);
+  color: var(--white);
+}
+
+footer {
+  background: var(--white);
+  width: 100%;
+  border-top-right-radius: 20%;
+}
+
+#contact-form {
+  background-color: #6070ff;
+  border-top-left-radius: 25%;
+  background-image: url(../images/contact\ formbackground\ shapes@2x.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  position: relative;
+  z-index: 1;
+}
+
+#contact-us {
+  margin-top: 10rem;
+}
