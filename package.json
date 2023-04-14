@@ -17,7 +17,6 @@
     "url": "https://github.com/ghermaico135/bootstrap-desktop-portfolio/issues"
   },
   "homepage": "https://github.com/ghermaico135/bootstrap-desktop-portfolio#readme",
-  "dependencies": {},
   "devDependencies": {
     "hint": "^7.1.8",
     "stylelint": "^13.13.1",
